@@ -26,20 +26,20 @@ This project is a full-stack social media application designed to foster meaning
 git clone https://github.com/Satakshijain/Connectify.git
 ```
 
-1. Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```bash
 cd Connectify
 ```
 
-1. Install dependencies for the frontend:
+3. Install dependencies for the frontend:
 
 ```bash
 cd client
 npm install
 ```
 
-1. Install dependencies for the backend:
+4. Install dependencies for the backend:
 
 ```bash
 cd ..
@@ -47,10 +47,10 @@ cd server
 npm install
 ```
 
-1. Set up MySQL database:
+5. Set up MySQL database:
 - Create a MySQL database named  **`Connectify`**.
 - Configure the database connection in **`server/config/config.json`**.
-1. Run the application:
+Run the application:
 - Start the backend server:
 
 ```bash
@@ -65,7 +65,7 @@ cd client
 npm start
 ```
 
-1. Access the application in your web browser at **`http://localhost:3000`**.
+6. Access the application in your web browser at **`http://localhost:3000`**.
 
 ## **Usage**
 
